@@ -5,7 +5,7 @@ Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Ros
 This project builds an end-to-end product that delivers the predictions and serves it on web application dashboard. 
 ![GitHub Logo](https://raw.githubusercontent.com/nahomneg/rossmann-sales-prediction/master/dashboard.PNG)
 [Dashboard Screenshot]
-### The data and feature description for this challenge can be found [here](https://pages.github.com/).
+### The data and feature description for this challenge can be found [here](https://www.kaggle.com/c/rossmann-store-sales/data).
 
 ## Folder Structure
 The notebooks folder contains notebooks for explanatory data-analysis and modelling respectively. The source code for the web application dashboard can be found in web_dashboard folder.
