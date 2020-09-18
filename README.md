@@ -3,6 +3,9 @@
 Rossmann operates over 3,000 drug stores in 7 European countries. Currently, Rossmann is concerned with predicting their daily sales for up to six weeks in advance.
 
 This project builds an end-to-end product that delivers the predictions and serves it on web application dashboard. 
+
+### The deployed web application dashboard can be found [here](https://rossmann-sales.herokuapp.com/).
+
 ![GitHub Logo](https://raw.githubusercontent.com/nahomneg/rossmann-sales-prediction/master/dashboard.PNG)
 [Dashboard Screenshot]
 ### The data and feature description for this challenge can be found [here](https://www.kaggle.com/c/rossmann-store-sales/data).
