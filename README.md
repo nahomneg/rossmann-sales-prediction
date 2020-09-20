@@ -41,8 +41,8 @@ $ # pip install -r requirements-pgsql.txt
 $
 $ # Set the FLASK_APP environment variable
 $ (Unix/Mac) export FLASK_APP=run.py
-$ (Windows) set FLASK_APP=run.py
-$ (Powershell) $env:FLASK_APP = ".\run.py"
+$ (Windows) set FLASK_APP=app.py
+$ (Powershell) $env:FLASK_APP = ".\app.py"
 $
 $ # Set up the DEBUG environment
 $ # (Unix/Mac) export FLASK_ENV=development
